@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Developer**
 
-- 💬 Ask me about **HTML,CSS3**
+- 💬 Ask me about **HTML and CSS3**
 
 - 📫 How to reach me **rahulchouhan8991@gmail.com**
 
