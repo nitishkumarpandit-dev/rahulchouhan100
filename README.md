@@ -48,7 +48,7 @@
 [![microsoft office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulchouhan100&show_icons=true&locale=en&layout=compact" alt="rahulchouhan100" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulchouhan100&show_icons=true&locale=en&layout=compact" alt="rahulchouhan100" /></p> <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulchouhan100&show_icons=true&locale=en" alt="rahulchouhan100" /></p>
 
