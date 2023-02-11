@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 👯 I’m looking to collaborate on **Ecommerce Project**
+- 👯 I’m looking to Connect with **Developer**
 
 - 🤝 I’m looking for help with **Developer**
 
