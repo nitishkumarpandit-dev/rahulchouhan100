@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to Connect with **Developer**
 
-- 🤝 I’m looking for help with **Developer**
-
 - 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **rahulchouhan8991@gmail.com**
