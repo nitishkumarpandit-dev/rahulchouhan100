@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **Node.JS**
 
 - 👯 I’m looking to Connect with **Developer**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **React**
 
-- 📫 How to reach me **rahulchouhan8991@gmail.com**
+- 📫 How to reach me **codeswithrahul@gmail.com**
 
 ## 🔗 Let's Connect:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulchouhan100/)
