@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **codeswithrahul@gmail.com**
+- 📫 Shoot me an email at **codeswithrahul@gmail.com**
 
 ## 🔗 Let's Connect:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulchouhan100/)
